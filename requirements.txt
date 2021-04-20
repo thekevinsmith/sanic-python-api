@@ -9,7 +9,7 @@ aredis==1.1.8
 async-generator==1.10
 async-timeout==3.0.1
 asyncio-redis==0.15.1
-asyncpg==0.20.1
+asyncpg==0.21.0
 attrs==19.3.0
 bcrypt==3.1.7
 boto3==1.13.16
